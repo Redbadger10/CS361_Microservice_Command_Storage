@@ -1,0 +1,17 @@
+a command
+kill
+command
+killall
+ls
+killall
+message
+git
+killall
+command -a
+not a command
+a command
+this command
+killall
+a command
+second command
+third command
